@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TacuUpHome",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
